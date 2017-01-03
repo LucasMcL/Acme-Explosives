@@ -1,0 +1,42 @@
+{
+  "fireworks": [
+    {
+      "id": 0,
+      "category": 0,
+      "name": "personal",
+      "description": "Fireworks intended for recreational use during holiday celebrations"
+    },
+    {
+      "id": 1,
+      "category": 0,
+      "name": "corporate",
+      "description": "Fireworks intended for corporate use during company celebrations"
+    },
+    {
+	    "id": 2,
+	    "category": 0,
+	    "name": "coyote",
+	    "description": "Fireworks intended for use by coyotes"
+    }
+  ],
+  "demolition": [
+  	{
+	    "id": 3,
+	    "category": 1,
+	    "name": "personal'",
+	    "description": "Demolition tools intended for recreational use"
+    },
+    {
+	    "id": 4,
+	    "category": 1,
+	    "name": "corporate'",
+	    "description": "Demolition tools intended for use by corporations"
+    },
+    {
+	    "id": 5,
+	    "category": 1,
+	    "name": "coyote'",
+	    "description": "Demolition tools intended for use by coyotes"
+    }
+  ]
+}

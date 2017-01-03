@@ -1,0 +1,121 @@
+{
+  "products": [{
+    "fairy_sparklers": {
+      "id": 0,
+      "type": 0,
+      "name": "Fairy Sparklers",
+      "description": "Multi-colored sparklers that are safe for any age"
+    },
+    "roman_candles": {
+    	"id": 1,
+      "type": 0,
+      "name": "Roman Candles",
+      "description": "Multi-colored Roman Candles"
+    },
+    "M80s": {
+    	"id": 2,
+      "type": 0,
+      "name": "M80 firecrackers",
+      "description": "Little sticks of dynamite"
+    },
+    "big_blue": {
+    	"id": 3,
+      "type": 1,
+      "name": "Big Blue Shell",
+      "description": "Large blue shell"
+    },
+    "big_red": {
+    	"id": 4,
+      "type": 1,
+      "name": "Big Red Shell",
+      "description": "Large red shell"
+    },
+    "big_green": {
+    	"id": 5,
+      "type": 1,
+      "name": "Big Green Shell",
+      "description": "Large green shell"
+    },
+    "desert_crackle": {
+    	"id": 6,
+      "type": 1,
+      "name": "Desert Crackle",
+      "description": "Little poppers to entertain the coyote in your life"
+    },
+    "fake_rabbit": {
+    	"id": 7,
+      "type": 1,
+      "name": "Fake Rabbit",
+      "description": "Leaves a smoke cloud that looks like a rabbit"
+    },
+    "animal_roman_candle": {
+    	"id": 8,
+      "type": 1,
+      "name": "Animal Roman Candle",
+      "description": "Roman candle specifically sized and shaped for a 4-legged creature"
+    },
+		"sledge_hammer": {
+    	"id": 9,
+      "type": 2,
+      "name": "Sledge Hammer",
+      "description": "Consumer sledge hammer"
+    },
+    "jackhammer": {
+    	"id": 10,
+      "type": 2,
+      "name": "Jackhammer",
+      "description": "Consumer jackhammer"
+    },
+    "boxing_gloves": {
+    	"id": 11,
+      "type": 2,
+      "name": "Boxing Gloves",
+      "description": "For punching holes in things"
+    },
+		"dynamite": {
+    	"id": 12,
+      "type": 2,
+      "name": "Dynamite",
+      "description": "Blow some shit up"
+    },
+    "C4": {
+    	"id": 13,
+      "type": 2,
+      "name": "C4",
+      "description": "Blow some more shit up"
+    },
+    "small_bomb": {
+    	"id": 14,
+      "type": 2,
+      "name": "Small Bomb",
+      "description": "Blow even more shit up"
+    },
+    "fake_tunnel": {
+    	"id": 15,
+      "type": 2,
+      "name": "Fake Tunnel",
+      "description": "Trick that pesky roadrunner"
+    },
+    "piano_trap": {
+    	"id": 16,
+      "type": 2,
+      "name": "Piano Trap",
+      "description": "Drop a piano on your target"
+    },
+    "rocket": {
+    	"id": 17,
+      "type": 2,
+      "name": "Small Rocket",
+      "description": "Chase down the roadrunner on this small rocket"
+    }
+  }]
+}
+
+
+
+
+
+
+
+
+
