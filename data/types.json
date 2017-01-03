@@ -1,5 +1,5 @@
 {
-  "fireworks": [
+  "types": [
     {
       "id": 0,
       "category": 0,
@@ -17,25 +17,23 @@
 	    "category": 0,
 	    "name": "coyote",
 	    "description": "Fireworks intended for use by coyotes"
-    }
-  ],
-  "demolition": [
-  	{
+    },
+    {
 	    "id": 3,
 	    "category": 1,
-	    "name": "personal'",
+	    "name": "personal",
 	    "description": "Demolition tools intended for recreational use"
     },
     {
 	    "id": 4,
 	    "category": 1,
-	    "name": "corporate'",
+	    "name": "corporate",
 	    "description": "Demolition tools intended for use by corporations"
     },
     {
 	    "id": 5,
 	    "category": 1,
-	    "name": "coyote'",
+	    "name": "coyote",
 	    "description": "Demolition tools intended for use by coyotes"
     }
   ]
